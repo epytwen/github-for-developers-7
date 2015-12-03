@@ -12,5 +12,8 @@ sweet things
 ## A hobby
 designing stuff
 
+## Favorite color
+Orange
+
 My goal is to learn github and use it from visual designer's perspective
 
