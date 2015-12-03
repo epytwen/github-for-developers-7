@@ -15,5 +15,8 @@ designing stuff
 ## Favorite color
 Orange
 
+## My Second Favorite color
+yellow for speed
+
 My goal is to learn github and use it from visual designer's perspective
 
